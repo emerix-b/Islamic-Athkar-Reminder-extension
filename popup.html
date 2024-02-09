@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Islamic Athkar Reminder</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+  <div id="app" class="container">
+    <h1>Islamic Athkar Reminder</h1>
+    
+    <div class="section">
+      <label for="interval">Select reminder interval:</label>
+      <input type="range" id="interval" min="5" max="60" value="5" step="5">
+      <span id="intervalValue">5</span> minutes
+    </div>
+    
+    <div class="section">
+      <label class="switch">
+        <input type="checkbox" id="toggleButton">
+        <span class="slider"></span>
+      </label>
+      <br>
+      <a href="https://athkar.co/" target="_blank">أذكار الصباح والمساء</a>
+      <br>
+      <a href="https://timesprayer.com/" target="_blank">أوقات الصلاة</a>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
