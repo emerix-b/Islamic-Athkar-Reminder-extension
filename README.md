@@ -18,34 +18,29 @@ Additionally, the extension provides quick access to:
 ## How to Download and Install
 
 1. **Download Extension Files:**
-   - Navigate to the [Releases](https://github.com/emerix-b/Islamic-Athkar-Reminder-extension/releases) section of this repository.
+   - Download the extension files as a ZIP archive.
    
-2. **Download the Latest Release:**
-   - Locate the latest release and download the ZIP file containing the extension files.
-   
-3. **Extract ZIP File:**
+2. **Extract ZIP File:**
    - Once the ZIP file is downloaded, extract its contents to a folder on your computer.
    
-4. **Load the Extension in Chrome:**
+3. **Load the Extension in Chrome:**
    - Open Google Chrome and navigate to `chrome://extensions/` in the address bar.
    
-5. **Enable Developer Mode:**
+4. **Enable Developer Mode:**
    - Toggle the Developer mode switch in the top right corner to enable it.
    
-6. **Load Unpacked Extension:**
+5. **Load Unpacked Extension:**
    - Click on the "Load unpacked" button and select the folder where you extracted the extension files.
    
-7. **Confirm Installation:**
+6. **Confirm Installation:**
    - After selecting the folder, the extension should be loaded into Chrome, and you will see its icon in the browser toolbar.
    
-8. **Configure Extension:**
+7. **Configure Extension:**
    - Click on the extension icon in the toolbar to open the popup. Follow the instructions provided to customize your reminders.
    
-9. **Enjoy Your Reminders:**
+8. **Enjoy Your Reminders:**
    - Once configured, the extension will deliver Islamic athkar reminders at your chosen intervals, enhancing your spiritual experience throughout the day.
-
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
